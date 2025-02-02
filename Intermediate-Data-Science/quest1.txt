@@ -1,0 +1,158 @@
+Supondo que você está começando a aprender sobre Inteligência Artificial e quer entender a importância dos frameworks, qual é o principal benefício de usar frameworks como ou PyTorch no desenvolvimento de modelos de IA?
+
+Questão 1Resposta
+
+a.
+Eles facilitam a implementação e o treinamento de modelos complexos. [V]
+
+b.
+Eles substituem a necessidade de conhecimento em programação.
+
+
+c.
+Eles oferecem uma interface gráfica para programação em IA.
+
+
+d.
+Eles automatizam completamente o processo de criação de modelos.
+
+Qual dos seguintes componentes é fundamental para o funcionamento de uma rede neural?
+Questão 2Resposta
+
+a.
+Planilha de Excel.
+
+b.
+Neurônio. [V]
+
+c.
+Navegador web.
+
+d.
+Sensor de temperatura.
+
+Ao implementar um modelo simples de rede neural, qual é a primeira etapa que você deve realizar?
+Questão 3Resposta
+
+a.
+Definir a arquitetura do modelo. [V]
+
+b.
+Treinar o modelo.
+
+c.
+Avaliar o modelo.
+
+d.
+Compilar o modelo.
+
+
+
+
+Suponha que você está explicando a um amigo como funciona o treinamento de uma rede neural. Qual dessas frases descreve melhor o que acontece durante o treinamento?
+Questão 4Resposta
+
+a.
+O modelo modifica o design da rede sozinho.
+
+b.
+O modelo escreve códigos por conta própria.
+
+c.
+O modelo aprende a fazer previsões corretas usando exemplos. [V]
+
+d.
+O modelo desenha gráficos automaticamente.
+
+Considere que você está utilizando o TensorFlow para criar um modelo. Qual dessas linhas de código define corretamente uma camada densa com 128 neurônios?
+Questão 5Resposta
+
+a.
+model.compile(optimizer='adam')
+
+b.
+tf.keras.layers.Dense(128)  [V]
+
+c.
+model.fit(x_train, y_train, epochs=128)
+
+d.
+tf.keras.layers.Flatten(input_shape=(128,))
+
+
+Para que serve o método model.fit() em TensorFlow?
+Questão 6Resposta
+
+a.
+Para compilar o modelo antes do treinamento.
+
+b.
+Para treinar o modelo usando os dados fornecidos. [V]
+
+c.
+Para carregar os dados de treinamento.
+
+d.
+Para testar o modelo com dados não vistos.
+
+
+Imagine que você está criando uma rede neural e precisa decidir como os neurônios vão “pensar”. Qual é o papel da função de ativação nesse processo?
+Questão 7Resposta
+
+a.
+Ela faz com que o modelo aprenda coisas complicadas. [V]
+
+b.
+Ela deixa o treinamento mais rápido.
+
+c.
+Ela desfaz os erros durante o treinamento.
+
+d.
+Ela reduz o tamanho do modelo.
+
+Quando você avalia um modelo de IA, o que a “acurácia” mede?
+Questão 8Resposta
+
+a.
+A velocidade do treinamento.
+
+b.
+A proporção de previsões corretas. [V]
+
+c.
+A quantidade de dados utilizados.
+
+d.
+O número de camadas no modelo.
+
+
+Qual dos seguintes passos é necessário antes de treinar um modelo de rede neural?
+Questão 9Resposta
+
+a.
+Aumentar o tamanho do dataset.
+
+b.
+Definir uma função de perda.[V]
+
+c.
+Criar um sistema de recomendação.
+
+d.
+Implementar um compilador. 
+
+Durante a criação de um modelo, qual dessas tarefas é executada por model.evaluate() em TensorFlow?
+Questão 10Resposta
+
+a.
+Compilar o modelo antes do treinamento.
+
+b.
+Dividir os dados em treinamento e teste.
+
+c.
+Avaliar o modelo com dados de teste. [V]
+
+d.
+Realizar o treinamento do modelo.

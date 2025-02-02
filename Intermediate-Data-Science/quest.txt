@@ -1,0 +1,155 @@
+Um cientista de dados está trabalhando em um problema de previsão de preços de imóveis em uma determinada região. Para isso, ele coletou dados sobre o tamanho do terreno, o tamanho da casa, o número de quartos e banheiros e o preço de venda. Qual tipo de aprendizado de máquina ele deve usar para resolver esse problema?
+Questão 1Resposta
+
+a.
+Aprendizado por reforço.
+
+b.
+Aprendizado supervisionado. [V]
+
+c.
+Aprendizado não supervisionado.
+
+d.
+Aprendizado profundo.
+
+
+Um cientista de dados está trabalhando em um problema de previsão de vendas de um produto em particular em determinado período. Para isso, ele coletou dados sobre as vendas históricas, as campanhas de marketing, as promoções e outras variáveis relevantes. Qual tipo de problema de aprendizado de máquina é esse?
+Questão 2Resposta
+
+a.
+Clustering.
+
+b.
+Regressão. [V]
+
+c.
+Dimensionalidade reduzida.
+
+d.
+Classificação.
+
+
+Durante o desenvolvimento de um modelo de aprendizado de máquina, você opta por utilizar um algoritmo de regressão linear. Qual dos seguintes cenários é mais apropriado para a aplicação de regressão linear?
+Questão 3Resposta
+
+a.
+Prever se um cliente irá comprar um produto ou não.
+
+b.
+Prever a temperatura de uma cidade com base em dados históricos. [V]
+
+c.
+Segmentar clientes em grupos com base em seus comportamentos de compra.
+
+d.
+Classificar imagens de gatos e cachorros.
+
+
+Você está treinando um modelo de regressão linear em Python usando a biblioteca scikit-learn. Após criar seu modelo de regressão linear, você deseja treinar o modelo. Qual comando você usaria para fazer o treinamento?
+Questão 4Resposta
+
+a.
+model.score()
+
+b.
+model.fit() [V]
+
+c.
+model.predict()
+
+d.
+model.coef_
+
+
+Um analista de dados está utilizando a biblioteca Scikit-learn para implementar um modelo de regressão linear. Qual função da Scikit-learn é comumente utilizada para criar um modelo de regressão linear?
+Questão 5Resposta
+
+a.
+DecisionTreeRegressor()
+
+b.
+LinearRegression() [V]
+
+c.
+LogisticRegression()
+
+d.
+KNeighborsRegressor()
+
+Um modelo de regressão linear foi treinado para prever a idade de um carro com base em sua quilometragem. Qual é a variável dependente nesse modelo?
+Questão 6Resposta
+
+a.
+Modelo do carro.
+
+b.
+Potência do motor.
+
+c.
+Idade do carro. [V]
+
+d.
+Modelo do carro.
+
+Você trabalha em uma empresa de seguro saúde e tem um conjunto de dados de clientes que inclui informações como idade, gênero, histórico médico e estilo de vida. O objetivo é prever se um novo cliente tem uma alta ou baixa probabilidade de fazer uma solicitação de seguro no próximo ano. Para isso, você precisa utilizar um algoritmo de aprendizado de máquina que classifique os clientes em dois grupos: “alta probabilidade” e “baixa probabilidade” de fazer uma solicitação. Qual técnica de aprendizado de máquina seria mais adequada para resolver esse problema de previsão binária?
+Questão 7Resposta
+
+a.
+Redução de dimensionalidade.
+
+b.
+K-Means.
+
+c.
+Regressão linear.
+
+d.
+Classificação com regressão logística. [V]
+
+Você está desenvolvendo um agente de inteligência artificial para um jogo de labirinto, em que o objetivo é que o agente encontre a saída o mais rápido possível. O agente pode executar várias ações, como mover-se para frente, virar à esquerda ou direita e voltar. Cada movimento tem uma consequência, como avançar no labirinto ou colidir com uma parede. O agente não sabe de antemão qual caminho é o melhor, mas recebe recompensas ou penalidades com base em suas ações. Que tipo de técnica de aprendizado de máquina seria mais adequada para treinar este agente, que aprende com a interação contínua com o ambiente e com o feedback das recompensas?
+Questão 8Resposta
+
+a.
+Aprendizado por reforço. [V]
+
+b.
+Aprendizado não supervisionado.
+
+c.
+Aprendizado supervisionado.
+
+d.
+Redes neurais.
+
+Um cientista de dados decidiu utilizar um modelo de regressão linear. Qual biblioteca Python é mais comumente utilizada para implementar modelos de regressão linear?
+Questão 9Resposta
+
+a.
+Keras.
+
+b.
+TensorFlow.
+
+c.
+PyTorch
+
+d.
+Scikit-learn. [V]
+
+
+Um cientista de dados está trabalhando em um problema de segmentação de clientes. Qual tipo de aprendizado de máquina é mais adequado para esse problema?
+Questão 10Resposta
+
+a.
+Aprendizado não supervisionado. [V]
+
+b.
+Aprendizado por reforço.
+
+c.
+Aprendizado semissupervisionado.
+
+d.
+Aprendizado supervisionado.
+
