@@ -1,0 +1,157 @@
+Exercício 8: Avalie seu conhecimento!
+
+Uma empresa de e-commerce deseja simplificar um conjunto de dados de clientes que possui dezenas de características para melhorar suas estratégias de marketing. Ela decide utilizar PCA para reduzir a dimensionalidade. Qual é o principal objetivo do PCA?
+Questão 1Resposta
+
+a.
+Reduzir o número de variáveis mantendo a maior parte da variabilidade dos dados. [v]
+
+b.
+Criar novas variáveis que não existem nos dados originais.
+
+c.
+Classificar os dados em categorias predefinidas.
+
+d.
+Aumentar o número de variáveis para capturar mais informações.
+
+Um analista de dados está tentando encontrar padrões de compra entre produtos em um grande conjunto de transações. Qual técnica de aprendizado não supervisionado é mais adequada para identificar associações entre produtos?
+Questão 2Resposta
+
+a.
+Algoritmos de Regras de Associação [v]
+
+b.
+Regressão Logística
+
+c.
+K-Means
+
+d.
+PCA
+
+Em um projeto de mineração de dados, você está usando o PCA para analisar dados de imagens com alta resolução. Qual é o benefício principal de aplicar PCA nesses dados?
+Questão 3Resposta
+
+a.
+Aumentar o número de pixels na imagem.
+
+b.
+Criar novas imagens a partir das originais.
+
+c.
+Reduzir o tamanho dos arquivos de imagem mantendo características importantes. [v]
+
+d.
+Melhorar a resolução das imagens.
+
+Uma empresa de varejo quer identificar relações de compra entre itens em um conjunto de dados que possui várias transações. A técnica ideal para extrair associações entre produtos é:
+Questão 4Resposta
+
+a.
+PCA
+
+b.
+Algoritmo Apriori [v]
+
+c.
+Algoritmo K-Means
+
+d.
+Análise de Sentimento
+
+Você tem um conjunto de dados com muitas variáveis e deseja visualizar as principais tendências sem perder informações significativas. Qual técnica ajudaria a alcançar isso?
+Questão 5Resposta
+
+a.
+Algoritmo Apriori
+
+b.
+Regressão Logística
+
+c.
+K-Means Clustering
+
+d.
+PCA [v]
+
+
+Em uma análise de dados de vendas, você deseja identificar produtos que costumam ser comprados juntos para criar promoções mais eficazes. Qual técnica é a mais apropriada para identificar essas associações?
+Questão 6Resposta
+
+a.
+Regressão Linear
+
+b.
+Algoritmo K-Means
+
+c.
+PCA
+
+d.
+Algoritmo Apriori [v]
+
+Você está realizando uma análise de dados de uma pesquisa de satisfação com múltiplas perguntas. Deseja simplificar as variáveis para interpretar melhor os resultados. Qual técnica você usaria?
+Questão 7Resposta
+
+a.
+Algoritmo Apriori
+
+b.
+PCA [v]
+
+c.
+Algoritmo K-Means
+
+d.
+Regressão Linear
+
+
+Você tem um conjunto de dados de compras com informações sobre itens e categorias. Após aplicar o PCA, o que você pode esperar como resultado?
+Questão 8Resposta
+
+a.
+Uma lista de regras de associação entre itens.
+
+b.
+A divisão dos dados em clusters com base em semelhanças.
+
+c.
+A criação de novos dados sintéticos com base nas variáveis originais.
+
+d.
+Uma redução no número de dimensões dos dados, mantendo a variabilidade. [v]
+
+
+Em um conjunto de dados com várias características de clientes, você quer simplificar as variáveis para facilitar a análise sem perder informações essenciais. Qual técnica é mais adequada?
+Questão 9Resposta
+
+a.
+PCA [v]
+
+b.
+Regressão Linear
+
+c.
+K-Means Clustering
+
+d.
+Algoritmo Apriori
+
+
+Uma loja online deseja identificar padrões de compra entre produtos e criar recomendações. Qual técnica de associação entre itens é mais adequada para extrair essas informações?
+Questão 10Resposta
+
+a.
+Eclat
+
+b.
+Análise de Componentes Principais
+
+c.
+Algoritmo Apriori [v]
+
+d.
+PCA
+
+

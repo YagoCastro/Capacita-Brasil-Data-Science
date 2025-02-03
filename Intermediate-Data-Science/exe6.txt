@@ -1,0 +1,159 @@
+Exercício 6: Avalie seu conhecimento!
+
+
+No contexto do aprendizado supervisionado, os algoritmos de classificação são utilizados para prever a categoria de uma nova observação com base em dados de treinamento rotulados. Qual das alternativas a seguir descreve corretamente o objetivo desses algoritmos?
+Questão 1Resposta
+
+a.
+Prever o valor exato de uma variável numérica.
+
+b.
+Estimar a probabilidade de ocorrência de um evento contínuo.
+
+c.
+Atribuir uma classe ou categoria a novas observações. [v]
+
+d.
+Agrupar dados não rotulados em diferentes categorias.
+
+Quando se utiliza um algoritmo de classificação para prever se um paciente tem determinada doença (sim ou não), qual das alternativas a seguir seria um exemplo de dado de entrada para esse algoritmo?
+Questão 2Resposta
+
+a.
+O nome do paciente.
+
+b.
+O prognóstico da doença.
+
+c.
+O tipo de tratamento a ser utilizado.
+
+d.
+A temperatura corporal do paciente. [v]
+
+
+Qual das seguintes situações seria um bom uso de um algoritmo de classificação?
+Questão 3Resposta
+
+a.
+Determinar a nota média dos alunos de uma classe.
+
+b.
+Calcular a distância entre duas cidades.
+
+c.
+Identificar se uma transação bancária é fraudulenta ou não. [v]
+
+d.
+Prever a quantidade de vendas de uma loja no próximo mês.
+
+
+
+Ao aplicar um algoritmo de classificação em um conjunto de dados, qual das seguintes opções seria uma métrica importante para avaliar o desempenho do modelo?
+Questão 4Resposta
+
+a.
+Média aritmética.
+
+b.
+Variância.
+
+c.
+Mediana.
+
+d.
+Acurácia. [v]
+
+Qual das alternativas a seguir descreve um desafio comum ao utilizar algoritmos de classificação?
+Questão 5Resposta
+
+a.
+Conseguir classificar todos os dados corretamente.
+
+b.
+Garantir que os dados tenham valores numéricos.
+
+c.
+Determinar o número de categorias para classificação.
+
+d.
+Obter um conjunto de dados com rótulos. [v]
+
+
+Se você treina um algoritmo de classificação para distinguir entre “gato” e “cachorro”, mas o modelo apresenta erros ao tentar classificar novas imagens, qual poderia ser uma causa comum para esses erros?
+Questão 6Resposta
+
+a.
+O modelo foi testado com o mesmo conjunto de dados de treinamento.
+
+b.
+O conjunto de dados de treinamento era muito pequeno ou não representativo. [v]
+
+c.
+O modelo foi treinado com imagens de alta qualidade.
+
+d.
+As classes “gato” e “cachorro” têm o mesmo número de exemplos.
+
+
+Ao utilizar um algoritmo de classificação para prever se um e-mail é spam ou não, qual dos seguintes exemplos é uma possível entrada de dados para o modelo?
+Questão 7Resposta
+
+a.
+O tamanho do e-mail em megabytes.
+
+b.
+A presença de determinadas palavras no corpo do e-mail. [v]
+
+c.
+O endereço IP do remetente.
+
+d.
+A data de recebimento do e-mail.
+
+Em um problema de classificação, qual dos seguintes tipos de saída o modelo produzirá?
+Questão 8Resposta
+
+a.
+Um número real.
+
+b.
+Uma classe ou categoria. [V]
+
+c.
+Um intervalo de valores.
+
+d.
+Uma sequência de caracteres.
+
+
+Um modelo de classificação foi treinado para prever a espécie de uma planta com base em características como o comprimento das pétalas. Qual seria uma possível saída desse modelo?
+Questão 9Resposta
+
+a.
+Um valor decimal indicando o comprimento das pétalas.
+
+b.
+O nome da espécie da planta. [v]
+
+c.
+A altura da planta em centímetros.
+
+d.
+O número total de plantas no conjunto de dados.
+
+Qual dos seguintes fatores pode afetar a precisão de um algoritmo de classificação ao ser aplicado em um novo conjunto de dados?
+Questão 10Resposta
+
+a.
+A qualidade dos dados de entrada usados no treinamento. [v]
+
+b.
+O número de observações no conjunto de dados de teste.
+
+c.
+O tempo de execução do algoritmo.
+
+d.
+O número de classes no conjunto de dados.
+

@@ -1,0 +1,171 @@
+Exercício 9: Avalie seu conhecimento!
+
+Você trabalha como analista de redes sociais para uma grande empresa e foi encarregado de analisar as opiniões dos usuários sobre um novo produto lançado recentemente. Para isso, você deseja identificar se as avaliações dos usuários são positivas ou negativas.
+
+Qual modelo de PLN seria o mais adequado para começar essa análise de sentimento com uma implementação simples e eficiente?
+Questão 1Resposta
+
+a.
+Árvore de Decisão.
+
+b.
+Rede Neural Convolucional.
+
+c.
+Naive Bayes. [v]
+
+d.
+K-Nearest Neighbors.
+
+Imagine que você é um cientista de dados responsável por criar um sistema de recomendação de filmes baseado nas avaliações dos usuários. Antes de treinar seu modelo, você precisa representar os textos das avaliações de maneira que as máquinas possam entender.
+
+Qual técnica é mais indicada para transformar essas avaliações em uma forma numérica, levando em consideração a importância de cada palavra?
+Questão 2Resposta
+
+a.
+TF-IDF. [v]
+
+b.
+Stemming.
+
+c.
+Bag of Words (BoW).
+
+d.
+Tokenização simples.
+
+Você está trabalhando em um projeto de análise de sentimento para um site de críticas de filmes. Para começar, você precisa quebrar as frases em partes menores que possam ser analisadas.
+
+Que técnica de pré-processamento você deve usar para dividir o texto em palavras individuais?
+Questão 3Resposta
+
+a.
+Stopwords.
+
+b.
+Lemmatização.
+
+c.
+Stemming.
+
+d.
+Tokenização. [v]
+
+Durante o pré-processamento de texto, você precisa simplificar as palavras, reduzindo-as à sua forma básica para garantir que variações diferentes da mesma palavra sejam tratadas da mesma forma.
+
+Qual técnica de pré-processamento você usaria para essa tarefa?
+Questão 4Resposta
+
+a.
+Lemmatização. [v]
+
+b.
+Remoção de Stopwords.
+
+c.
+Tokenização.
+
+d.
+Stemming.
+
+Você foi contratado por uma empresa para automatizar a classificação de e-mails recebidos, distinguindo entre spam e e-mails legítimos. Ao projetar seu modelo, você decide usar uma abordagem que considera tanto a frequência das palavras no e-mail quanto a sua raridade em outros e-mails.
+
+Qual técnica você está utilizando?
+Questão 5Resposta
+
+a.
+N-grams.
+
+b.
+Bag of Words.
+
+c.
+Tokenização.
+
+d.
+TF-IDF. [v]
+
+Em um projeto de análise de sentimento para um aplicativo de avaliação de restaurantes, você decide usar um modelo simples e rápido para classificar os comentários como positivos ou negativos.
+
+Qual das seguintes opções seria a melhor escolha?
+Questão 6Resposta
+
+a.
+Naive Bayes. [v]
+
+b.
+Redes Neurais Profundas.
+
+c.
+Random Forest.
+
+d.
+SVM (Support Vector Machine).
+
+Você está construindo um pipeline de processamento de linguagem natural para analisar textos em um grande volume de dados. Após carregar os textos, você deseja remover palavras comuns, como “o”, “a”, “e” e “de”, que não contribuem para o significado do texto.
+
+Qual função ou ferramenta em Python você deve usar para remover essas palavras?
+Questão 7Resposta
+
+a.
+Stopwords da NLTK. [v]
+
+b.
+Tokenização.
+
+c.
+TF-IDF Vectorizer.
+
+d.
+Stemming.
+
+Em um projeto de PLN, você precisa transformar uma lista de textos em uma representação vetorial que possa ser usada para treinar um modelo de machine learning.
+
+Qual função em Python, geralmente utilizada em combinação com o Naive Bayes, realiza essa transformação?
+Questão 8Resposta
+
+a.
+TfidfVectorizer [v]
+
+b.
+word_tokenize
+
+c.
+pad_sequences
+
+d.
+Lemmatizer
+
+Você está utilizando o Python para implementar um modelo de análise de sentimentos. Durante o pré-processamento, você quer dividir as frases em suas palavras constituintes.
+
+Qual biblioteca Python oferece a função word_tokenize que realiza essa tarefa?
+Questão 9Resposta
+
+a.
+scikit-learn
+
+b.
+spaCy
+
+c.
+Pandas
+
+d.
+NLTK [v]
+
+Em um projeto de PLN, você quer reduzir a complexidade do vocabulário tratando variações de palavras como “correr”, “correu” e “correndo” como a mesma palavra base “corr”.
+
+Qual função ou técnica você deve utilizar em Python para alcançar isso?
+Questão 10Resposta
+
+a.
+Tokenização.
+
+b.
+TfidfVectorizer.
+
+c.
+Radicalização. [v]
+
+d.
+Lemmatização.

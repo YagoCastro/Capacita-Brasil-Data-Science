@@ -1,0 +1,161 @@
+Exercício 7: Avalie seu conhecimento!
+
+
+
+Você é um analista de dados em uma empresa de e-commerce que deseja segmentar seus clientes para campanhas de marketing mais direcionadas. Você tem um conjunto de dados com informações de compras e visitas ao site, mas sem rótulos sobre os tipos de clientes.Qual técnica de aprendizado de máquina é mais adequada para segmentar esses clientes em grupos com base em suas características?
+Questão 1Resposta
+
+a.
+Aprendizado semissupervisionado.
+
+b.
+Aprendizado supervisionado.
+
+c.
+Aprendizado por reforço.
+
+d.
+Aprendizado não supervisionado. [v]
+
+
+Ao aplicar um algoritmo de clustering, você nota que todos os dados foram agrupados em exatamente três clusters. Cada ponto foi atribuído ao cluster com o centroide mais próximo. Com base nessas informações, qual algoritmo de clustering foi utilizado?
+Questão 2Resposta
+
+a.
+K-means. [v]
+
+b.
+Regressão Logística.
+
+c.
+DBScan.
+
+d.
+Clusterização Hierárquica.
+
+
+
+Você está trabalhando em um conjunto de dados onde há regiões de alta densidade de pontos e algumas regiões esparsas. Como identificar clusters densos e ignorar os pontos dispersos, considerando-os como ruídos?
+Questão 3Resposta
+
+a.
+K-means.
+
+b.
+Gaussian Mixture Model.
+
+c.
+DBSCAN. [v]
+
+d.
+Regressão Logística.
+
+Você utiliza o algoritmo K-means em um conjunto de dados e obtém três clusters. No entanto, alguns pontos parecem estar muito afastados dos centróides, indicando que podem ser outliers. O que fazer nesse caso?
+Questão 4Resposta
+
+a.
+Recalcular os centróides manualmente.
+
+b.
+Aumentar o valor de K no K-means.
+
+c.
+Diminuir o número de clusters.
+
+d.
+Usar o algoritmo DBSCAN, que é mais robusto a outliers. [v]
+
+
+
+Após aplicar o algoritmo DBSCAN em um conjunto de dados, você observa que alguns pontos foram classificados com o valor de cluster -1. Nesse cenário, o que isso significa?
+Questão 5Resposta
+
+a.
+Os pontos foram agrupados incorretamente.
+
+b.
+Os pontos são outliers ou ruído. [v]
+
+c.
+Os pontos pertencem ao cluster mais denso.
+
+d.
+Os pontos precisam ser reprocessados.
+
+Um cientista de dados está analisando um conjunto de dados com muitas features irrelevantes. Qual técnica de aprendizado não supervisionado pode ser utilizada para reduzir o conjunto de dados?
+Questão 6Resposta
+
+a.
+Regras de associação.
+
+b.
+Clustering.
+
+c.
+K-means.
+
+d.
+Redução de dimensionalidade. [v]
+
+
+Uma loja de varejo deseja descobrir quais produtos são frequentemente comprados juntos para criar promoções mais eficazes. Qual técnica de mineração de dados seria mais adequada para essa tarefa?
+Questão 7Resposta
+
+a.
+Regras de associação. [v]
+
+b.
+Clustering.
+
+c.
+Redução de dimensionalidade.
+
+d.
+DBSCAN.
+
+
+Um grupo de cientistas está trabalhando em um projeto de agronegócios e precisa identificar os principais fatores que afetam a produtividade de uma fazenda. Qual é o tipo de aprendizado de máquina que pode ser usado para agrupar os dados de produtividade de uma fazenda em categorias semelhantes?
+Questão 8Resposta
+
+a.
+Aprendizado não supervisionado. [v]
+
+b.
+Aprendizado por transferência.
+
+c.
+Aprendizado por reforço.
+
+d.
+Aprendizado supervisionado.
+
+Um grupo de cientistas está trabalhando em um projeto de saúde e precisa identificar os principais fatores que afetam a probabilidade de um paciente desenvolver uma doença. Qual é o tipo de aprendizado de máquina que pode ser usado para agrupar os pacientes em categorias com base em suas características e histórico médico?
+Questão 9Resposta
+
+a.
+Aprendizado por transferência.
+
+b.
+Aprendizado não supervisionado. [v]
+
+c.
+Aprendizado por reforço.
+
+d.
+Aprendizado supervisionado.
+
+
+Você está implementando o algoritmo K-means utilizando a biblioteca Scikit-learn em Python. Após ajustar o modelo, você deseja prever a qual cluster novos dados pertencem. Qual método do objeto K-means você deve utilizar para prever os clusters de novos dados?
+Questão 10Resposta
+
+a.
+predict() [v]
+
+b.
+transform()
+
+c.
+fit_predict()
+
+d.
+fit()

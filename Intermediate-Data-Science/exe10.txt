@@ -1,0 +1,158 @@
+Exercício 10: Avalie seu conhecimento!
+
+No contexto de Processamento de Linguagem Natural (PLN), modelos como Word2Vec são amplamente utilizados. Qual é a principal função do Word2Vec?
+Questão 1Resposta
+
+a.
+Gerar novos textos automaticamente.
+
+b.
+Traduzir textos de uma língua para outra.
+
+c.
+Classificar textos de acordo com o sentimento.
+
+d.
+Transformar palavras em vetores numéricos baseados no contexto. [v]
+
+Qual é a principal característica que diferencia o GloVe do Word2Vec?
+Questão 2Resposta
+
+a.
+O GloVe utiliza coocorrências globais para gerar vetores. [v]
+
+b.
+O GloVe é baseado em redes neurais convolucionais.
+
+c.
+O Word2Vec usa apenas vetores randômicos.
+
+d.
+O Word2Vec gera vetores mais curtos que o GloVe.
+
+
+As redes neurais recorrentes (RNN) são especialmente úteis no processamento de sequências de dados. Por que isso acontece?
+Questão 3Resposta
+
+a.
+Elas têm a capacidade de manter memória do que foi processado anteriormente. [v]
+
+b.
+Elas são mais rápidas que outros tipos de redes neurais.
+
+c.
+Elas processam todas as palavras de uma vez.
+
+d.
+Elas só funcionam com palavras isoladas.
+
+
+O LSTM é uma variação da RNN. Qual é o principal benefício do LSTM em relação às RNNs convencionais?
+Questão 4Resposta
+
+a.
+Ele pode aprender dependências de longo prazo em sequências de dados. [v]
+
+b.
+Ele é usado exclusivamente para tarefas de tradução.
+
+c.
+Ele utiliza menos memória que as RNNs tradicionais.
+
+d.
+Ele processa informações mais rapidamente.
+
+Em análise de sentimentos, um modelo de PLN é usado para classificar textos. Qual das seguintes tarefas é típica de um modelo de análise de sentimentos?
+Questão 5Resposta
+
+a.
+Gerar novos textos automaticamente.
+
+b.
+Detectar se o texto é positivo, negativo ou neutro. [v]
+
+c.
+Identificar as entidades mencionadas no texto.
+
+d.
+Traduzir um texto para outra língua.
+
+Qual dos seguintes é um exemplo típico de aplicação da análise de sentimentos?
+Questão 6Resposta
+
+a.
+Classificação de e-mails em categorias.
+
+b.
+Determinação do humor em postagens de redes sociais. [v]
+
+c.
+Tradução de textos entre diferentes idiomas.
+
+d.
+Identificação de sarcasmo em textos.
+
+
+O que torna um chatbot eficiente na interação com humanos?
+Questão 7Resposta
+
+a.
+A habilidade de processar imagens e vídeos durante a conversa.
+
+b.
+A sua capacidade de armazenar grandes volumes de dados.
+
+c.
+A capacidade de realizar cálculos complexos em tempo real.
+
+d.
+O uso de técnicas de PLN para entender e gerar respostas. [v]
+
+
+O que um sistema de diálogo avançado, como o de assistentes virtuais, precisa para oferecer respostas mais naturais?
+Questão 8Resposta
+
+a.
+Empregar redes neurais recorrentes e técnicas de PLN. [v]
+
+b.
+Utilizar uma grande base de dados de respostas predefinidas.
+
+c.
+Seguir scripts rígidos de respostas.
+
+d.
+Operar exclusivamente em servidores de alta capacidade.
+
+
+Quando falamos de Word2Vec e GloVe, como as palavras são representadas em ambos os modelos?
+Questão 9Resposta
+
+a.
+Como vetores numéricos de alta dimensão. [v]
+
+b.
+Como listas de sinônimos.
+
+c.
+Como imagens visuais associadas às palavras.
+
+d.
+Como sentenças pré-construídas.
+
+Qual das seguintes técnicas é frequentemente usada em chatbots modernos para manter o contexto de uma conversa?
+Questão 10Resposta
+
+a.
+K-Means Clustering.
+
+b.
+Redes Neurais Convolucionais.
+
+c.
+Naive Bayes Classifier.
+
+d.
+LSTM (Long Short-Term Memory). [v]
+
+
