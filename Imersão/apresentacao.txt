@@ -1,0 +1,35 @@
+reunião 15 dias ou 1 mês: depende do projeto
+
+
+comunicação: via email
+
+todos os projetos: mesma fonte de dados
+
+acesso direto ao bb, exportar .csv, API
+
+json eu pego ele faço uma rederização
+
+exportar para html
+
+foco, entregar algo funcional para o cliente
+
+
+- a partir de um volume de markiting
+
+
+anonimatização
+
+
+nosso sistema é desenovldo em java 
+posrgree sql
+
+api rec
+
+bi metabase
+
+
+
+anomalias de dados financeiras
+
+1000 1000
+ e do nada comprar 100000 oq houve

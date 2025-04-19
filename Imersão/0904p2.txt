@@ -1,0 +1,16 @@
+melhorar na técnica
+
+avaliação
+
+pre processamento
+
+algoritmo de segmentação
+
+rgb e só um canal de cor?
+
+
+ideia para segmentar os canais rgb 
+
+redimensionamento
+
+filtros

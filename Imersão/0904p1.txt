@@ -1,0 +1,44 @@
+Reunião 2:
+
+Início: 20h Término: 
+
+- Verificação dos membros presentes, pelo menos um 
+explicação do trello
+
+Obeservação: Algumas coisas ainda estão sendo alinhadas com as empresas;
+Novos alunos estão sendo alocados, a dinamica de alunos ainda está sendo feita
+
+Já foram criados todos os repositorios no github e todos os quadros no trello
+verificar o email para aceitar os convites, em caso de dúvida, enviar para os monitores ou para oprofessor
+
+Estrutura do trello
+- As atividades foram dividas em Fases, no total são 5 fases 
+- Cada card está enumerado como 
+
+Github:
+- como o professor desenvolve
+
+01 Fase 1
+
+Maria Beatriz silva felix de Andrade
+
+utilizando o vscode no github (tem q clicar no ponto) se o reposit´´rio for pessoal ele roda python
+
+adicionar o link do github no trello
+
+autosave
+
+exagerar nos comentários, comentários
+
+salvar tudo 
+
+baixar o git descktop
+
+estudar git e github
+
+
+
+
+git pull (pegar todas as atualizações do projeto)_
+
+documentar tudo

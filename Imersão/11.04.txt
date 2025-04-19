@@ -1,0 +1,9 @@
+em parte do algoritmo
+
+hiperparametros 
+
+datagalment
+
+otimização: otimizei el e depois treinei
+
+tensorboarld
